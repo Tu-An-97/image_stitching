@@ -1,0 +1,21 @@
+{
+  "reference": 0,
+  "error_px": {
+    "sffa_tk/data/split/grid2x2\\tile_r0_c0.png": [
+      0.0,
+      0.0
+    ],
+    "sffa_tk/data/split/grid2x2\\tile_r0_c1.png": [
+      0.32140541076660156,
+      0.5692221522331238
+    ],
+    "sffa_tk/data/split/grid2x2\\tile_r1_c0.png": [
+      0.15204472839832306,
+      0.3199494183063507
+    ],
+    "sffa_tk/data/split/grid2x2\\tile_r1_c1.png": [
+      0.36689403653144836,
+      0.39065009355545044
+    ]
+  }
+}

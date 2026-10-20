@@ -1,0 +1,29 @@
+{
+  "reference": 1,
+  "error_px": {
+    "sffa_tk/data/split/grid2x3_rot_blur\\tile_r0_c1.png": [
+      4.233145753832382e-17,
+      1.7763568394002505e-15
+    ],
+    "sffa_tk/data/split/grid2x3_rot_blur\\tile_r1_c1.png": [
+      0.08849433809518814,
+      0.3696064054965973
+    ],
+    "sffa_tk/data/split/grid2x3_rot_blur\\tile_r0_c0.png": [
+      0.09992322325706482,
+      0.3351055383682251
+    ],
+    "sffa_tk/data/split/grid2x3_rot_blur\\tile_r1_c0.png": [
+      0.14818184077739716,
+      0.6575047373771667
+    ],
+    "sffa_tk/data/split/grid2x3_rot_blur\\tile_r0_c2.png": [
+      0.048340506851673126,
+      0.1704563945531845
+    ],
+    "sffa_tk/data/split/grid2x3_rot_blur\\tile_r1_c2.png": [
+      0.20446759462356567,
+      0.5625089406967163
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+﻿grid 5x5, 25 frames
+  (0,0) tile_r0_c0.png 1585x1832
+  (0,1) tile_r0_c1.png 1585x1832
+  (0,2) tile_r0_c2.png 1585x1832
+  (0,3) tile_r0_c3.png 1585x1832
+  (0,4) tile_r0_c4.png 1585x1832
+  (1,0) tile_r1_c0.png 1585x1832
+  (1,1) tile_r1_c1.png 1585x1832
+  (1,2) tile_r1_c2.png 1585x1832
+  (1,3) tile_r1_c3.png 1585x1832
+  (1,4) tile_r1_c4.png 1585x1832
+  (2,0) tile_r2_c0.png 1585x1832
+  (2,1) tile_r2_c1.png 1585x1832
+  (2,2) tile_r2_c2.png 1585x1832
+  (2,3) tile_r2_c3.png 1585x1832
+  (2,4) tile_r2_c4.png 1585x1832
+  (3,0) tile_r3_c0.png 1585x1832
+  (3,1) tile_r3_c1.png 1585x1832
+  (3,2) tile_r3_c2.png 1585x1832
+  (3,3) tile_r3_c3.png 1585x1832
+  (3,4) tile_r3_c4.png 1585x1832
+  (4,0) tile_r4_c0.png 1585x1832
+  (4,1) tile_r4_c1.png 1585x1832
+  (4,2) tile_r4_c2.png 1585x1832
+  (4,3) tile_r4_c3.png 1585x1832
+  (4,4) tile_r4_c4.png 1585x1832
+  (0,0)->right (0,1): matches=  27 inliers=  27 OK  10.6s
+  (0,0)->down  (1,0): matches=  60 inliers=  35 OK  9.7s
+  (0,1)->right (0,2): matches=  92 inliers=  92 OK  8.2s
+  (0,1)->down  (1,1): matches=  80 inliers=  70 OK  10.3s
+  (0,2)->right (0,3): matches=  76 inliers=  76 OK  7.7s
+  (0,2)->down  (1,2): matches=  60 inliers=  60 OK  10.1s
+  (0,3)->right (0,4): matches=  80 inliers=  80 OK  7.9s
+  (0,3)->down  (1,3): matches=  67 inliers=  58 OK  10.2s
+  (0,4)->down  (1,4): matches=  57 inliers=  51 OK  10.1s
+  (1,0)->right (1,1): matches=  79 inliers=  79 OK  7.7s
+  (1,0)->down  (2,0): matches=  48 inliers=  39 OK  10.0s
+  (1,1)->right (1,2): matches=  63 inliers=  63 OK  7.6s
+  (1,1)->down  (2,1): matches=  36 inliers=  36 OK  10.0s
+  (1,2)->right (1,3): matches=  52 inliers=  52 OK  7.8s
+  (1,2)->down  (2,2): matches= 147 inliers= 132 OK  11.0s
+  (1,3)->right (1,4): matches=  97 inliers=  97 OK  8.8s
+  (1,3)->down  (2,3): matches=  66 inliers=  62 OK  13.7s
+  (1,4)->down  (2,4): matches=  96 inliers=  96 OK  15.0s
+  (2,0)->right (2,1): matches=  89 inliers=  89 OK  11.1s
+  (2,0)->down  (3,0): matches=  68 inliers=  68 OK  12.0s
+  (2,1)->right (2,2): matches=  69 inliers=  69 OK  7.6s
+  (2,1)->down  (3,1): matches=  87 inliers=  87 OK  10.0s
+  (2,2)->right (2,3): matches= 105 inliers= 105 OK  8.0s
+  (2,2)->down  (3,2): matches=  61 inliers=  61 OK  11.4s
+  (2,3)->right (2,4): matches=  64 inliers=  64 OK  9.6s
+  (2,3)->down  (3,3): matches=  56 inliers=  34 OK  15.4s
+  (2,4)->down  (3,4): matches=  89 inliers=  89 OK  15.5s
+  (3,0)->right (3,1): matches=  98 inliers=  98 OK  11.1s
+  (3,0)->down  (4,0): matches=  63 inliers=  61 OK  15.6s
+  (3,1)->right (3,2): matches=  72 inliers=  72 OK  11.2s
+  (3,1)->down  (4,1): matches=  97 inliers=  94 OK  15.5s
+  (3,2)->right (3,3): matches= 121 inliers= 121 OK  11.3s
+  (3,2)->down  (4,2): matches=  82 inliers=  82 OK  15.3s
+  (3,3)->right (3,4): matches=  64 inliers=  64 OK  11.1s
+  (3,3)->down  (4,3): matches=  71 inliers=  71 OK  15.1s
+  (3,4)->down  (4,4): matches=  82 inliers=  82 OK  15.6s
+  (4,0)->right (4,1): matches=  62 inliers=  62 OK  10.9s
+  (4,1)->right (4,2): matches=   5 inliers=   5 skip: few inliers  11.1s
+  (4,2)->right (4,3): matches= 116 inliers= 116 OK  11.4s
+  (4,3)->right (4,4): matches= 107 inliers= 107 OK  11.3s
+  grid step right: dx=  1189.5 dy=    -0.0  (19 pairs)
+  grid step down : dx=     0.2 dy=  1373.1  (20 pairs)
+  pair 1-6 (down): off grid step (0 inliers)
+  pair 3-8 (down): off grid step (0 inliers)
+  pair 4-9 (down): off grid step (0 inliers)
+  pair 5-10 (down): off grid step (0 inliers)
+  pair 6-11 (down): off grid step (0 inliers)
+  pair 7-12 (down): off grid step (0 inliers)
+  pair 9-14 (down): off grid step (0 inliers)
+  pair 14-19 (down): off grid step (0 inliers)
+  pair 21-22 (right): off grid step (0 inliers)
+reference = (2, 2), panorama 6342x7330, total 582.3s
+mean residual per pair after placement (px):
+  (0, 2) - (1, 2):   1.18
+  (3, 0) - (4, 0):   0.64
+  (3, 3) - (4, 3):   0.40
+  (4, 0) - (4, 1):   0.37
+  (1, 2) - (1, 3):   0.37
+  (3, 1) - (4, 1):   0.34
+  (3, 2) - (4, 2):   0.34
+  (3, 0) - (3, 1):   0.33
+  (3, 3) - (3, 4):   0.33
+  (0, 2) - (0, 3):   0.32
+  (1, 1) - (1, 2):   0.32
+  (2, 3) - (2, 4):   0.32
+  (2, 1) - (2, 2):   0.31
+  (2, 0) - (2, 1):   0.31
+  (0, 0) - (0, 1):   0.30
+  (2, 0) - (3, 0):   0.30
+  (4, 2) - (4, 3):   0.30
+  (1, 3) - (1, 4):   0.29
+  (3, 1) - (3, 2):   0.29
+  (4, 3) - (4, 4):   0.28
+  (0, 1) - (0, 2):   0.27
+  (1, 0) - (1, 1):   0.27
+  (0, 3) - (0, 4):   0.27
+  (0, 0) - (1, 0):   0.25
+  (3, 4) - (4, 4):   0.25
+  (3, 2) - (3, 3):   0.24
+  (2, 3) - (3, 3):   0.23
+  (2, 2) - (2, 3):   0.23
+  (2, 1) - (3, 1):   0.21
+  (1, 3) - (2, 3):   0.20
+  (2, 2) - (3, 2):   0.19
+saved -> sffa_tk\data\split\pcb5x5_rep276\grid_run\panorama.jpg
